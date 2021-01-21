@@ -338,3 +338,14 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/Library
+/ProjectSettings
+/Temp
+/Assets/Animations
+/Assets/EffectExamples
+/Assets/Resources
+/Assets/Scenes
+/Assets/TextMesh Pro
+/Assets/Panel Test.png
+/Assembly-CSharp.csproj
+/SpaceInvaders.sln
